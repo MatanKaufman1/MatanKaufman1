@@ -69,7 +69,7 @@
 ---
 
 # **🛢️ Databases**  
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="plastic: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white/>  
     <img src=https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white/>
     <img src=https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white/>  
