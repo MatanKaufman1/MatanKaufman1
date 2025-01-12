@@ -6,47 +6,47 @@
 
 # 💻 Programming & Scripting  
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; text-align: center;"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
-    <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">  <img src=https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white/>
-    <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Groovy-393939?style=plastic&logo=apache-groovy&logoColor=white/>
-    <a href="https://yaml.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white/>
-    <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white/>
-    <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white"/>
+    <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white"/>
+    <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Groovy-393939?style=plastic&logo=apache-groovy&logoColor=white"/>
+    <a href="https://yaml.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white"/>
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
+    <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
 
 # ♾️ CI/CD  
 
 ### 1. Source Control Management (SCM):
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white/>
-    <img src=https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white/> 
-    <img src=https://img.shields.io/badge/Azure%20Repos-0078D7?style=plastic&logo=microsoft-azure&logoColor=white/>
-    <img src=https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=plastic&logo=amazon-aws&logoColor=white/>  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Azure%20Repos-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=plastic&logo=amazon-aws&logoColor=white"/>  
 </div>
 
 ### **2. Automation Servers:**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/Jenkins-eda044?style=plastic&logo=jenkins&logoColor=white/>
-    <img src=https://img.shields.io/badge/GitHub%20Actions-0b3468F?style=plastic&logo=github-actions&logoColor=white/>  
-    <img src=https://img.shields.io/badge/CircleCI-343434?style=plastic&logo=circleci&logoColor=white/>
-    <img src=https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=plastic&logo=azure-pipelines&logoColor=white/>
-    <img src=https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=plastic&logo=amazon-aws&logoColor=white/>
+    <img src="https://img.shields.io/badge/Jenkins-eda044?style=plastic&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-0b3468F?style=plastic&logo=github-actions&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/CircleCI-343434?style=plastic&logo=circleci&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=plastic&logo=azure-pipelines&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=plastic&logo=amazon-aws&logoColor=white"/>
 </div>
 
 
 ### **3. Registries:**  
 **Container Registries:**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/DockerHub-2496ED?style=plastic&logo=docker&logoColor=white/>
-    <img src=https://img.shields.io/badge/ECR-FF9900?style=plastic&logo=amazon-aws&logoColor=white/>
-    <img src=https://img.shields.io/badge/GitLab%20Registry-FCA121?style=plastic&logo=gitlab&logoColor=white/>
-    <img src=https://img.shields.io/badge/GitHub%20Packages-2EA44F?style=plastic&logo=github&logoColor=white/>
-    <img src=https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=plastic&logo=microsoft-azure&logoColor=white/>
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=plastic&logo=docker&logoColor=white/">
+    <img src="https://img.shields.io/badge/ECR-FF9900?style=plastic&logo=amazon-aws&logoColor=white/">
+    <img src="https://img.shields.io/badge/GitLab%20Registry-FCA121?style=plastic&logo=gitlab&logoColor=white/">
+    <img src="https://img.shields.io/badge/GitHub%20Packages-2EA44F?style=plastic&logo=github&logoColor=white/">
+    <img src="https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
 </div>
 
 **Artifact Repositories:**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/JFrog%20Artifactory-196c1c?style=plastic&logo=jfrog&logoColor=white/>
-    <img src=https://img.shields.io/badge/Nexus-343434?style=plastic&logo=sonatype&logoColor=white/>
+    <img src="https://img.shields.io/badge/JFrog%20Artifactory-196c1c?style=plastic&logo=jfrog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nexus-343434?style=plastic&logo=sonatype&logoColor=white"/>
 </div>
 
 ### **4. Deployment & Orchestration Tools**
@@ -70,10 +70,10 @@
 
 # **🛢️ Databases**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/MySQL-040720?style=plastic&logo=mysql&logoColor=white/>  
-    <img src=https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white/>
-    <img src=https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white/>  
-    <img src=https://img.shields.io/badge/Azure%20MySQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white/>  
+    <img src="https://img.shields.io/badge/MySQL-040720?style=plastic&logo=mysql&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Azure%20MySQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>  
 </div>
 
 # **☁️ Cloud Platforms**  
