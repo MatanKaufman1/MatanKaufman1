@@ -3,6 +3,7 @@
 ## DevOps Engineer
 
 🛠️ I help organizations build, automate, and maintain scalable infrastructure and deployment pipelines.
+
 ## 💻 Programming
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/800px-Groovy-logo.svg.png" alt="groovy" width="40" height="40"/> </a>
@@ -10,7 +11,6 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" alt="jinja2" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png" alt="flask" width="40" height="40"/> </a>
 
@@ -40,7 +40,7 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/products/mysql" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/A/azure-mysql-logo-B4D69B0026-seeklogo.com.png" alt="azure-mysql" width="40" height="40"/>
+  <img src=!!https://img.shields.io/badge/Azure%20MySQL-%230072C6.svg?style=flat&logo=azure-devops&logoColor=whitealt="azure-mysql" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
   <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-71fcy541.png" alt="dynamodb" width="40" height="40"/>
