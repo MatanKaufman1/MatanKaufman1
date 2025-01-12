@@ -14,7 +14,6 @@
     <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
 
 # ♾️ CI/CD  
-
 ### 1. Source Control Management (SCM):
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
