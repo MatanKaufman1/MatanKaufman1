@@ -40,7 +40,7 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/products/mysql" target="_blank" rel="noreferrer"> 
-  <img src=!!https://img.shields.io/badge/Azure%20MySQL-%230072C6.svg?style=flat&logo=azure-devops&logoColor=whitealt="azure-mysql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Azure%20MySQL-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white" alt="azure-mysql" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
   <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-71fcy541.png" alt="dynamodb" width="40" height="40"/>
