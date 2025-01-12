@@ -16,7 +16,7 @@
 ---
 
 ### **💻 Programming & Scripting**  
-<div style="display: flex; gap: 10px; align-items: center;"
+<div style="display: flex; gap: 10px; align-items: center; font-size=16px"
     flex-wrap: wrap;"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
      <img src=https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white/>
      <img src=https://img.shields.io/badge/Groovy-4298B8?style=plastic&logo=apache-groovy&logoColor=white/>
