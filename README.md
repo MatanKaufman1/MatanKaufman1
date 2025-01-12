@@ -61,8 +61,7 @@ I'm passionate about building and automating efficient infrastructure and deploy
 ---
 
 ### **☁️ Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
+<div style="display: flex; gap: 10px; align-items: center;"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/> </div>
 
 ---
 
