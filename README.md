@@ -54,8 +54,6 @@
 ## **4. Deployment & Orchestration Tools**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" alt="EKS"/> <img src="https://img.shields.io/badge/AKS-0078D7?style=flat-square&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> <img src="https://img.shields.io/badge/Kops-3E4EE3?style=flat-square&logo=kubernetes&logoColor=white" alt="Kops"/> <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubeadm"/> </div>
 
----
-
 
 # **📊 Monitoring & Observability**
 
@@ -66,17 +64,13 @@
   <img src="https://img.shields.io/badge/Loki-0A3E98?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
 </div>
 
----
-
 # **🛢️ Databases**  
-<div style="plastic: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white/>  
     <img src=https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white/>
     <img src=https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white/>  
     <img src=https://img.shields.io/badge/Azure%20MySQL-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>  
 </div>
-
----
 
 # **☁️ Cloud Platforms**  
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -84,10 +78,7 @@
     <img src="https://img.shields.io/badge/Azure-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
 </div>
 
----
-
-
-🛠️ Other Tools & Utilities
+# **🛠️ Other Tools & Utilities**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"/> <img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> </div> <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/> <img src="https://img.shields.io/badge/Checkov-8051D6?style=flat-square&logoColor=white" alt="Checkov"/> <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white" alt="HCVault"/> </div>
 
 ## 🎓 Certificates
