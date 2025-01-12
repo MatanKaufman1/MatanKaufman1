@@ -58,10 +58,10 @@
 # **📊 Monitoring & Observability**
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK Stack"/>
-  <img src="https://img.shields.io/badge/Loki-0A3E98?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=social&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elastic&logoColor=white" alt="ELK Stack"/>
+  <img src="https://img.shields.io/badge/Loki-0A3E98?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
 </div>
 
 # **🛢️ Databases**  
