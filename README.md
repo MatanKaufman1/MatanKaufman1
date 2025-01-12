@@ -91,8 +91,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matankaufman1&show_icons=true&theme=dracula)
 
 ### 📫 How to reach me
-- LinkedIn: [Your Profile]
-- Email: your.email@domain.com
-- Blog: [Your Tech Blog if any]
+- LinkedIn: linkedin.com/in/matankaufman1
+- Email: matankaufman1@gmail.com
+
 
 ---
