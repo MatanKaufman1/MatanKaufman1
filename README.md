@@ -37,7 +37,7 @@
     <img src=https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=plastic&logo=amazon-aws&logoColor=white/>  
 </div>
 
-#### **2. Automation Servers:**  
+### **2. Automation Servers:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white/>
     <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white/>  
@@ -47,7 +47,7 @@
 </div>
 
 
-## **3. Registries:**  
+### **3. Registries:**  
 **Container Registries:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/DockerHub-2496ED?style=plastic&logo=docker&logoColor=white/>
@@ -63,7 +63,7 @@
     <img src=https://img.shields.io/badge/Nexus-343434?style=plastic&logo=sonatype&logoColor=white/>
 </div>
 
-## **4. Deployment & Orchestration Tools**
+### **4. Deployment & Orchestration Tools**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
     <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" alt="Helm"/> 
