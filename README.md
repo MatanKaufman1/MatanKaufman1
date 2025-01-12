@@ -52,7 +52,14 @@
 </div>
 
 ## **4. Deployment & Orchestration Tools**
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" alt="EKS"/> <img src="https://img.shields.io/badge/AKS-0078D7?style=flat-square&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> <img src="https://img.shields.io/badge/Kops-3E4EE3?style=flat-square&logo=kubernetes&logoColor=white" alt="Kops"/> <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubeadm"/> </div>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" alt="Helm"/> 
+    <img src="https://img.shields.io/badge/EKS-FF9900?style=plastic&logo=amazon-eks&logoColor=white" alt="EKS"/> 
+    <img src="https://img.shields.io/badge/AKS-0078D7?style=plastic&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> 
+    <img src="https://img.shields.io/badge/Kops-3E4EE3?style=plastic&logo=kubernetes&logoColor=white" alt="Kops"/> 
+    <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubeadm"/> 
+ </div>
 
 
 # **📊 Monitoring & Observability**
@@ -66,8 +73,8 @@
 
 # **🛢️ Databases**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white/>  
-    <img src=https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white/>
+    <img src=https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white/>  
+    <img src=https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white/>
     <img src=https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white/>  
     <img src=https://img.shields.io/badge/Azure%20MySQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white/>  
 </div>
