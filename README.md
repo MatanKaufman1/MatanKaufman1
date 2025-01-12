@@ -23,20 +23,24 @@ I'm passionate about building and automating efficient infrastructure and deploy
    - Azure Repos, AWS CodeCommit  
 
 ## **2. Automation Servers:**  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)  
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=flat-square&logo=azure-pipelines&logoColor=white)  
-![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src=https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white/>
+    <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white/>  
+    <img src=https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white/>
+    <img src=https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=flat-square&logo=azure-pipelines&logoColor=white/>
+    <img src=https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white/>
+</div>
+
 
 ## **3. Registries:**  
 **Container Registries:**  
-![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
-![GitLab Registry](https://img.shields.io/badge/GitLab%20Registry-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
-![GitHub Packages](https://img.shields.io/badge/GitHub%20Packages-181717?style=flat-square&logo=github&logoColor=white)  
-![Azure Container Registry](https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
-
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src=https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white/>
+    <img src=https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white/>
+    <img src=https://img.shields.io/badge/GitLab%20Registry-FCA121?style=flat-square&logo=gitlab&logoColor=white/>
+    <img src=https://img.shields.io/badge/GitHub%20Packages-181717?style=flat-square&logo=github&logoColor=white/>
+    <img src=https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>
+</div>
 **Artifact Repositories:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white/>
