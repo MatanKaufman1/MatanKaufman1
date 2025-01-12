@@ -51,6 +51,9 @@
     <img src=https://img.shields.io/badge/Nexus-343434?style=flat-square&logo=sonatype&logoColor=white/>
 </div>
 
+## **4. Deployment & Orchestration Tools**
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" alt="EKS"/> <img src="https://img.shields.io/badge/AKS-0078D7?style=flat-square&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> <img src="https://img.shields.io/badge/Kops-3E4EE3?style=flat-square&logo=kubernetes&logoColor=white" alt="Kops"/> <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubeadm"/> </div>
+
 
 # **📊 Monitoring & Observability**
 
