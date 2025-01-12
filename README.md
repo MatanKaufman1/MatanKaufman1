@@ -22,14 +22,14 @@ I'm passionate about building and automating efficient infrastructure and deploy
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>   - !<a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.cloudservices.store/site/wp-content/uploads/2020/10/logo-extra-whitespace.png" alt="gitlab" width="40" height="40"/> </a>
    - Azure Repos, AWS CodeCommit  
 
-#### **2. Automation Servers:**  
+## **2. Automation Servers:**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)  
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=flat-square&logo=azure-pipelines&logoColor=white)  
 ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
 
-#### **3. Registries:**  
+## **3. Registries:**  
 **Container Registries:**  
 ![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
@@ -38,9 +38,10 @@ I'm passionate about building and automating efficient infrastructure and deploy
 ![Azure Container Registry](https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
 
 **Artifact Repositories:**  
-![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white)  
-![Nexus](https://img.shields.io/badge/Nexus-343434?style=flat-square&logo=sonatype&logoColor=white)  
-
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src=https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white/>
+    <img src=https://img.shields.io/badge/Nexus-343434?style=flat-square&logo=sonatype&logoColor=white/>
+</div>
 ---
 
 ### **📊 Monitoring & Observability**
