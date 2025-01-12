@@ -5,9 +5,7 @@
 ---
 
 # 💻 Programming & Scripting  
-
-<div style="display: flex; gap: 10px; align-items: center;"
-    flex-wrap: wrap;"> 
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; text-align: center;"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
     <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">  <img src=https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white/>
     <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Groovy-4298B8?style=plastic&logo=apache-groovy&logoColor=white/>
@@ -17,7 +15,6 @@
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">  <img src=https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white/>
 </div>
 
----
 # ♾️ CI/CD  
 
 ### 1. Source Control Management (SCM):
@@ -66,7 +63,6 @@
 
 
 # **📊 Monitoring & Observability**
-
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" alt="Grafana"/>
