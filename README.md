@@ -35,13 +35,16 @@
 ## ☁️ Cloud 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.steerbridge.com/hs-fs/hubfs/Assets_2023/aws%20white%20transparent.png?width=400&height=259&name=aws%20white%20transparent.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://www.cloudcomputing-news.net/wp-content/uploads/2022/02/vmware-logo.png" alt="vmwware" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> </a>
 
 ## & Database 🛢️
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.clever-cloud.com/uploads/2023/03/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/> </a>
-
+<a href="https://azure.microsoft.com/en-us/products/mysql" target="_blank" rel="noreferrer"> 
+  <img src="https://seeklogo.com/images/A/azure-mysql-logo-B4D69B0026-seeklogo.com.png" alt="azure-mysql" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> 
+  <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-71fcy541.png" alt="dynamodb" width="40" height="40"/>
+</a>
 
 ## 🛠️ Tools
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
