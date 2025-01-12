@@ -67,21 +67,6 @@
 ## 🎓 Certificates
 <a href="https://www.credly.com/badges/7a1492e3-a1f0-40c0-84b7-28b3681ad5b3/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
 
-### 🔧 Technologies & Tools
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 💼 Professional Experience
-
-- **Current Role**: DevOps Engineer at [Company Name]
-- **Previous**: [Brief description of relevant previous experience]
 
 ### 🚀 Featured Projects
 
@@ -101,8 +86,8 @@
 - [Link to Repository]
 
 ### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=ambient_gradient)](https://github.com/matankaufman1/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matankaufman1&show_icons=true&theme=dracula)
 
 ### 📫 How to reach me
 - LinkedIn: [Your Profile]
@@ -110,4 +95,3 @@
 - Blog: [Your Tech Blog if any]
 
 ---
-💡 **Currently working on**: [Current project or learning focus]
