@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Matan Kaufman
-## Aspiring DevOps Engineer
+# Matan Kaufman DevOps Engineer
 
-I'm passionate about building and automating efficient infrastructure and deployment pipelines. With a solid foundation in scripting and cloud services, I aim to contribute to seamless software delivery and operational excellence.
+**I'm passionate about building and automating efficient infrastructure and deployment pipelines. With a solid foundation in scripting and cloud services, I aim to contribute to seamless software delivery and operational excellence.**
+
+---
 
 # 💻 Programming & Scripting  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
