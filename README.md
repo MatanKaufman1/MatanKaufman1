@@ -80,8 +80,8 @@
 
 # **☁️ Cloud Platforms**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src=https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white/>
-    <img src=https://img.shields.io/badge/Azure-0078D7?style=plasticl&logo=microsoft-azure&logoColor=white/>  
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
 </div>
 
 ---
