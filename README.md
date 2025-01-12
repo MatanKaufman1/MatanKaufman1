@@ -10,8 +10,8 @@ I'm passionate about building and automating efficient infrastructure and deploy
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://www.hashicorp.com" target="_blank" rel="noreferrer">
-    <img src="https://yt3.googleusercontent.com/OTbsOD3XgP1CTgMJOKKY1sPIKfW0z9bbQnMFoTy5Kusy0kw0AINW7n84QOiez8upis3yOx-8qWU=s900-c-k-c0x00ffffff-no-rj" alt="hashicorp" width="40" height="40"/>
+<a href="https://www.hashicorp.com/products/terraform" target="_blank" rel="noreferrer">
+    <img src="https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1699522490976%2Fcb5e1449-c98c-4b22-a1c4-1cccdfab8bc1.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng" alt="hashicorp" width="40" height="40"/>
 </a>
 
 ## ♾️ CI/CD
