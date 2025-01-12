@@ -17,7 +17,7 @@
 
 # ♾️ CI/CD  
 
-## **1. Source Control Management (SCM):**  
+### **1. Source Control Management (SCM):**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white/>
     <img src=https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white/> 
@@ -25,7 +25,7 @@
     <img src=https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=flat-square&logo=amazon-aws&logoColor=white/>  
 </div>
 
-## **2. Automation Servers:**  
+### **2. Automation Servers:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white/>
     <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white/>  
@@ -35,7 +35,7 @@
 </div>
 
 
-## **3. Registries:**  
+### **3. Registries:**  
 **Container Registries:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white/>
@@ -51,7 +51,7 @@
     <img src=https://img.shields.io/badge/Nexus-343434?style=flat-square&logo=sonatype&logoColor=white/>
 </div>
 
-## **4. Deployment & Orchestration Tools**
+### **4. Deployment & Orchestration Tools**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" alt="EKS"/> <img src="https://img.shields.io/badge/AKS-0078D7?style=flat-square&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> <img src="https://img.shields.io/badge/Kops-3E4EE3?style=flat-square&logo=kubernetes&logoColor=white" alt="Kops"/> <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubeadm"/> </div>
 
 
