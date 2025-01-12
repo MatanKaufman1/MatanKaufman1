@@ -66,6 +66,7 @@
   <img src="https://img.shields.io/badge/Loki-0A3E98?style=flat-square&logo=grafana&logoColor=white" alt="Loki"/>
 </div>
 
+---
 
 # **🛢️ Databases**  
 <div style="display: flex; gap: 10px; align-items: center;">
@@ -74,14 +75,17 @@
     <img src=https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white/>  
     <img src=https://img.shields.io/badge/Azure%20MySQL-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>  
 </div>
+
 ---
 
 # **☁️ Cloud Platforms**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white/>
-    <img src=https://img.shields.io/badge/Azure-0078D7?style=social&logo=microsoft-azure&logoColor=white/>  
+    <img src=https://img.shields.io/badge/Azure-0078D7?style=splasticl&logo=microsoft-azure&logoColor=white/>  
 </div>
+
 ---
+
 
 🛠️ Other Tools & Utilities
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"/> <img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> </div> <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/> <img src="https://img.shields.io/badge/Checkov-8051D6?style=flat-square&logoColor=white" alt="Checkov"/> <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white" alt="HCVault"/> </div>
