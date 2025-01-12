@@ -3,25 +3,24 @@
 
 I'm passionate about building and automating efficient infrastructure and deployment pipelines. With a solid foundation in scripting and cloud services, I aim to contribute to seamless software delivery and operational excellence.
 
-
-### **💻 Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)  
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+# 💻 Programming & Scripting  
+![Languages Icon](https://img.icons8.com/color/48/000000/code.png)  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" alt="bash" width="40" height="40"/> </a>
+<a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/800px-Groovy-logo.svg.png" alt="groovy" width="40" height="40"/> </a>
+<a href="https://yaml.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/256/9749/9749063.png" alt="yaml" width="40" height="40"/> </a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
 
 ---
 
-### **♾️ CI/CD**  
+# ♾️ CI/CD  
+![CI/CD Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ci-devops-flaticons-lineal-color-flat-icons.png)  
 
-#### **1. Source Control Management (SCM):**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
-![Azure Repos](https://img.shields.io/badge/Azure%20Repos-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
-![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+1. **Source Control Management (SCM):**  
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>   - !<a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.cloudservices.store/site/wp-content/uploads/2020/10/logo-extra-whitespace.png" alt="gitlab" width="40" height="40"/> </a>
+   - Azure Repos, AWS CodeCommit  
 
 #### **2. Automation Servers:**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
