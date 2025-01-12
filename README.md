@@ -4,7 +4,8 @@
 
 ---
 
-## 💻 Programming & Scripting  
+# 💻 Programming & Scripting  
+
 <div style="display: flex; gap: 10px; align-items: center;"
     flex-wrap: wrap;"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
@@ -19,7 +20,7 @@
 ---
 # ♾️ CI/CD  
 
-### **1. Source Control Management (SCM):**  
+### 1. Source Control Management (SCM):
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white/>
     <img src=https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white/> 
