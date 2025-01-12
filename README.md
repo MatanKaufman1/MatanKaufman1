@@ -44,6 +44,7 @@
     <img src=https://img.shields.io/badge/GitHub%20Packages-181717?style=flat-square&logo=github&logoColor=white/>
     <img src=https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>
 </div>
+
 **Artifact Repositories:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white/>
