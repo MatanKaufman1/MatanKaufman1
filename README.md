@@ -3,59 +3,82 @@
 
 I'm passionate about building and automating efficient infrastructure and deployment pipelines. With a solid foundation in scripting and cloud services, I aim to contribute to seamless software delivery and operational excellence.
 
-# 💻 Programming & Scripting  
-![Languages Icon](https://img.icons8.com/color/48/000000/code.png)  
-- **Languages:** Python, Bash, Groovy, YAML, SQL, HTML, CSS  
+
+### **💻 Programming & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)  
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
 
 ---
 
-# ♾️ CI/CD  
-![CI/CD Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ci-devops-flaticons-lineal-color-flat-icons.png)  
+### **♾️ CI/CD**  
 
-1. **Source Control Management (SCM):**  
-   - ![GitHub Logo](https://img.icons8.com/ios-filled/24/000000/github.png) GitHub  
-   - ![GitLab Logo](https://img.icons8.com/color/24/000000/gitlab.png) GitLab  
-   - Azure Repos, AWS CodeCommit  
+#### **1. Source Control Management (SCM):**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
+![Azure Repos](https://img.shields.io/badge/Azure%20Repos-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![AWS CodeCommit](https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
 
-2. **Automation Servers:**  
-   - ![Jenkins Logo](https://img.icons8.com/color/24/000000/jenkins.png) Jenkins  
-   - GitHub Actions, CircleCI, Azure Pipelines, AWS CodePipeline  
+#### **2. Automation Servers:**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)  
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=flat-square&logo=azure-pipelines&logoColor=white)  
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
 
-3. **Registries:**  
-   - **Container Registries:** DockerHub, ECR, GitLab Registry, GitHub Packages, Azure Container Registry  
-   - **Artifact Repositories:** JFrog Artifactory, Nexus  
+#### **3. Registries:**  
+**Container Registries:**  
+![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+![GitLab Registry](https://img.shields.io/badge/GitLab%20Registry-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
+![GitHub Packages](https://img.shields.io/badge/GitHub%20Packages-181717?style=flat-square&logo=github&logoColor=white)  
+![Azure Container Registry](https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
 
-4. **Deployment & Orchestration Tools:**  
-   - Kubernetes (K8s), Helm  
-   - **Cloud-Specific Kubernetes Services:** EKS (AWS), AKS (Azure), Kops, Kubeadm  
-
----
-
-# 📊 Monitoring & Observability  
-![Monitoring Icon](https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-monitoring-devops-flatart-icons-flat-flatarticons.png)  
-- Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Loki  
-
----
-
-# 🛢️ Databases  
-![Database Icon](https://img.icons8.com/color/48/000000/database.png)  
-- MySQL, MongoDB, DynamoDB, Azure MySQL  
+**Artifact Repositories:**  
+![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white)  
+![Nexus](https://img.shields.io/badge/Nexus-343434?style=flat-square&logo=sonatype&logoColor=white)  
 
 ---
 
-# ☁️ Cloud Platforms  
-![Cloud Icon](https://img.icons8.com/ios-filled/50/000000/cloud.png)  
-- AWS, Azure  
+### **📊 Monitoring & Observability**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)  
+![Loki](https://img.shields.io/badge/Loki-0A3E98?style=flat-square&logo=grafana&logoColor=white)  
 
 ---
 
-# 🛠️ Other Tools & Utilities  
-![Tools Icon](https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/000000/external-tools-construction-smashingstocks-flat-smashing-stocks.png)  
-- Linux, Ubuntu, Windows  
-- Vim, VSCode  
-- Nginx, Gunicorn  
-- Kafka, SonarQube, Snyk, Checkov  
-- HashiCorp Vault (HCVault)  
+### **🛢️ Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)  
+![Azure MySQL](https://img.shields.io/badge/Azure%20MySQL-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
+
+---
+
+### **☁️ Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
+
+---
+
+### **🛠️ Other Tools & Utilities**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)  
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)  
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)  
+![Checkov](https://img.shields.io/badge/Checkov-8051D6?style=flat-square&logoColor=white)  
+![HCVault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=flat-square&logo=vault&logoColor=white)  
 
 
 ## 🎓 Certificates
