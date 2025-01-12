@@ -16,8 +16,8 @@
 ---
 
 ### **💻 Programming & Scripting**  
-<div style="display: flex; gap: 10px; align-items: center;">
-     <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
+<div style="display: flex; gap: 10px; align-items: center;"
+    flex-wrap: wrap;"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
      <img src=https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white/>
      <img src=https://img.shields.io/badge/Groovy-4298B8?style=plastic&logo=apache-groovy&logoColor=white/>
      <img src=https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white/>
