@@ -15,9 +15,21 @@
 
 ---
 
+### **💻 Programming & Scripting**  
+<div style="display: flex; gap: 10px; align-items: center;">
+     <img src=https://img.shields.io/badge/Python-3776AB?style=plasticlogo=python&logoColor=white/>
+     <img src=https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white/>
+     <img src=https://img.shields.io/badge/Groovy-4298B8?style=plastic&logo=apache-groovy&logoColor=white/>
+     <img src=https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white/>
+     <img src=https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white/>
+     <img src=https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white/>
+     <img src=https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white/>
+</div>
+
+---
 # ♾️ CI/CD  
 
-## **1. Source Control Management (SCM):**  
+### **1. Source Control Management (SCM):**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white/>
     <img src=https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white/> 
@@ -25,7 +37,7 @@
     <img src=https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=plastic&logo=amazon-aws&logoColor=white/>  
 </div>
 
-## **2. Automation Servers:**  
+#### **2. Automation Servers:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white/>
     <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white/>  
