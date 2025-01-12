@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim"/>
  <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"/> 
  <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
- <img src="https://img.shields.io/badge/power-shell-728FCE?style=plastic&logo=power-shell&logoColor=white" alt="power-shell"/> 
+ <img src="https://img.shields.io/badge/PowerShell-728FCE?style=plastic&logo=PowerShell&logoColor=white" alt="PowerShell"/> 
  </div> 
  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> 
  <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
