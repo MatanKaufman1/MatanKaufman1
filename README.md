@@ -11,7 +11,7 @@ I'm passionate about building and automating efficient infrastructure and deploy
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://www.hashicorp.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/>
+    <img src="https://yt3.googleusercontent.com/OTbsOD3XgP1CTgMJOKKY1sPIKfW0z9bbQnMFoTy5Kusy0kw0AINW7n84QOiez8upis3yOx-8qWU=s900-c-k-c0x00ffffff-no-rj" alt="hashicorp" width="40" height="40"/>
 </a>
 
 ## ♾️ CI/CD
