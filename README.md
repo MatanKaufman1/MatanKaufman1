@@ -50,9 +50,9 @@
     <img src=https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white/>
     <img src=https://img.shields.io/badge/Nexus-343434?style=flat-square&logo=sonatype&logoColor=white/>
 </div>
----
 
-### **📊 Monitoring & Observability**
+
+# **📊 Monitoring & Observability**
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
@@ -63,7 +63,7 @@
 
 ---
 
-### **🛢️ Databases**  
+# **🛢️ Databases**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white/>  
     <img src=https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white/>
@@ -72,7 +72,7 @@
 </div>
 ---
 
-### **☁️ Cloud Platforms**  
+# **☁️ Cloud Platforms**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white/>
     <img src=https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>  
