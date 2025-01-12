@@ -26,7 +26,7 @@
 ### **2. Automation Servers:**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src=https://img.shields.io/badge/Jenkins-eda044?style=plastic&logo=jenkins&logoColor=white/>
-    <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=github-actions&logoColor=white/>  
+    <img src=https://img.shields.io/badge/GitHub%20Actions-0b3468F?style=plastic&logo=github-actions&logoColor=white/>  
     <img src=https://img.shields.io/badge/CircleCI-343434?style=plastic&logo=circleci&logoColor=white/>
     <img src=https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=plastic&logo=azure-pipelines&logoColor=white/>
     <img src=https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=plastic&logo=amazon-aws&logoColor=white/>
