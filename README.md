@@ -41,7 +41,7 @@
     <img src=https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white/>
     <img src=https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white/>
     <img src=https://img.shields.io/badge/GitLab%20Registry-FCA121?style=flat-square&logo=gitlab&logoColor=white/>
-    <img src=https://img.shields.io/badge/GitHub%20Packages-181717?style=flat-square&logo=github&logoColor=white/>
+    <img src=https://img.shields.io/badge/GitHub%20Packages-2EA44F?style=flat-square&logo=github&logoColor=white/>
     <img src=https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>
 </div>
 
