@@ -56,11 +56,11 @@ I'm passionate about building and automating efficient infrastructure and deploy
 
 ### **🛢️ Databases**  
 <div style="display: flex; gap: 10px; align-items: center;">
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)  
-![Azure MySQL](https://img.shields.io/badge/Azure%20MySQL-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
-
+    <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white/>  
+    <img src=https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white/>
+    <img src=https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white/>  
+    <img src=https://img.shields.io/badge/Azure%20MySQL-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>  
+</div>
 ---
 
 ### **☁️ Cloud Platforms**  
