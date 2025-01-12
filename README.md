@@ -11,8 +11,7 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://w.wol.ph/wp-content/uploads/2014/01/jinja2.png" alt="jinja2" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=128&id=ewGOClUtmFX4&format=png" alt="flask" width="40" height="40"/> </a>
+?<a herf="https://hashicorp.com/hcl" target="_blank" rel="noreferrer"><img src="https://hashicorp.gallerycdn.vsassets.io/extensions/hashicorp/hcl/0.6.0/1729689056959/Microsoft.VisualStudio.Services.Icons.Default>
 
 ## ♾️ CI/CD
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
@@ -60,7 +59,6 @@
 <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" alt="sonarqube" width="40" height="40"/> </a>
 <a href="https://snyk.io" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/s/52/snyk.svg" alt="snyk" width="40" height="40"/> </a>
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="https://www.steel-eye.com/hubfs/Slack%20Logo.png" alt="slack" width="40" height="40"/> </a>
-<a href="https://netflix.github.io/chaosmonkey/" target="_blank" rel="noreferrer"> <img src="https://netflix.github.io/chaosmonkey/logo.png" alt="chaosMoneky" width="40" height="40"/> </a>
 <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:861/1*pCFbZ09LlUJpQdR21nnH0Q.png" alt="checkov" width="40" height="40"/> </a>
 <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> <img src="https://www.terasky.com/wp-content/uploads/Group-463-1.svg" alt="hcvault" width="40" height="40"/> </a>
 
