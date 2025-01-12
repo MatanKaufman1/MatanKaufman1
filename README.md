@@ -11,7 +11,7 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/svg12/azure_sql_database_logo_freelogovectors.net.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="html" width="40" height="40"/> </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a>
-?<a herf="https://hashicorp.com/hcl" target="_blank" rel="noreferrer"><img src="https://hashicorp.gallerycdn.vsassets.io/extensions/hashicorp/hcl/0.6.0/1729689056959/Microsoft.VisualStudio.Services.Icons.Default>
+<a herf="https://hashicorp.com" target="_blank" rel="noreferrer"><img src="https://hashicorp.gallerycdn.vsassets.io/extensions/hashicorp/hcl/0.6.0/1729689056959/Microsoft.VisualStudio.Services.Icons.Default>
 
 ## ♾️ CI/CD
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
