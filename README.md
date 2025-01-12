@@ -4,7 +4,6 @@
 I'm passionate about building and automating efficient infrastructure and deployment pipelines. With a solid foundation in scripting and cloud services, I aim to contribute to seamless software delivery and operational excellence.
 
 # 💻 Programming & Scripting  
-![Languages Icon](https://img.icons8.com/color/48/000000/code.png)  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/cachecrew.com/blog/wp-content/uploads/2023/03/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df572212d73.0687702015307871861359.png?fit=528%2C528&ssl=1" alt="bash" width="40" height="40"/> </a>
 <a href="https://groovy-lang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/800px-Groovy-logo.svg.png" alt="groovy" width="40" height="40"/> </a>
