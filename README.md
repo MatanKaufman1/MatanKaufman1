@@ -79,9 +79,9 @@
 </div>
 
 # **☁️ Cloud Platforms**  
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin: 20px auto; width: 80%; max-width: 1200px; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Azure-0078D7?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; margin: 0 auto; width: 100%;"> 
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" width="120" height="30"/>
+    <img src="https://img.shields.io/badge/Azure-0078D7?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure" width="120" height="50"/>
 </div>
 
 # **🛠️ Other Tools & Utilities**
