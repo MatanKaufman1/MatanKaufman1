@@ -17,9 +17,13 @@
 
 # ♾️ CI/CD  
 
-1. **Source Control Management (SCM):**  
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>   - !<a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.cloudservices.store/site/wp-content/uploads/2020/10/logo-extra-whitespace.png" alt="gitlab" width="40" height="40"/> </a>
-   - Azure Repos, AWS CodeCommit  
+## **1. Source Control Management (SCM):**  
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src=https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white/>
+    <img src=https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white/> 
+    <img src=https://img.shields.io/badge/Azure%20Repos-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white/>
+    <img src=https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=flat-square&logo=amazon-aws&logoColor=white/>  
+</div>
 
 ## **2. Automation Servers:**  
 <div style="display: flex; gap: 10px; align-items: center;">
