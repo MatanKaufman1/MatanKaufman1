@@ -68,23 +68,6 @@
 <a href="https://www.credly.com/badges/7a1492e3-a1f0-40c0-84b7-28b3681ad5b3/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
 
 
-### 🚀 Featured Projects
-
-#### Infrastructure as Code Repository
-- Description: Collection of Terraform modules for provisioning cloud infrastructure
-- Technologies: Terraform, AWS, Azure
-- [Link to Repository]
-
-#### CI/CD Pipeline Automation
-- Description: Jenkins pipeline templates and automation scripts
-- Technologies: Jenkins, Docker, Kubernetes
-- [Link to Repository]
-
-#### Monitoring Solution
-- Description: Custom monitoring stack deployment
-- Technologies: Prometheus, Grafana, ELK Stack
-- [Link to Repository]
-
 ### 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matankaufman1&layout=donut&theme=dracula)](https://github.com/matankaufman1/github-readme-stats)
 
