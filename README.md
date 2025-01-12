@@ -16,7 +16,6 @@ I'm passionate about building and automating efficient infrastructure and deploy
 ---
 
 # ♾️ CI/CD  
-![CI/CD Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ci-devops-flaticons-lineal-color-flat-icons.png)  
 
 1. **Source Control Management (SCM):**  
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" alt="GitHubActions" width="40" height="40"/> </a>   - !<a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.cloudservices.store/site/wp-content/uploads/2020/10/logo-extra-whitespace.png" alt="gitlab" width="40" height="40"/> </a>
