@@ -1,16 +1,13 @@
 # Matan Kaufman DevOps Engineer
 
-<div style="text-align: center;">
+|                | **Professional**            | **Myself**                          |                |
+|----------------|-----------------------------|-------------------------------------|----------------|
+|                | Automation Enthusiast       | Shawarma Lover                      |                |
+|                | Best-Practices Advocate     | Space Enthusiast                    |                |
+|                | A "Can-Do" Attitude         | Not-That-Bad Ping Pong Player       |                |
+|                | Knowledge Seeker            | First to be Eaten in a Zombie Apocalypse |                |
+|                | Lifelong Learner            | A Cat Owner                         |                |
 
-| **Professional**            | **Myself**                          |
-|-----------------------------|-------------------------------------|
-| Automation Enthusiast       | Shawarma Lover                      |
-| Best-Practices Advocate     | Space Enthusiast                    |
-| A "Can-Do" Attitude         | Not-That-Bad Ping Pong Player       |
-| Knowledge Seeker            | First to be Eaten in a Zombie Apocalypse |
-| Lifelong Learner            | A Cat Owner                         |
-
-</div>
 
 ---
 
