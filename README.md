@@ -1,6 +1,10 @@
 # Matan Kaufman DevOps Engineer
 
-**I'm passionate about automating infrastructure and deployment pipelines, embracing best practices to ensure efficiency and reliability. I'm eager to deepen my knowledge and improve software development processes to enable faster feedback cycles and better outcomes.**
+- Automation Enthusiast
+- Best-Practices Advocate
+- A "can-do" attitude
+- Knowledge Seeker
+- Lifelong Learner
 
 ---
 
