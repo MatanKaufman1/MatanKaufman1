@@ -1,6 +1,6 @@
 # Matan Kaufman DevOps Engineer
 
-|       **Professional**             |          **MySelf**             |
+##       **Professional**             |          **MySelf**             |
 |------------------------------------|:-------------------------------:|
 | Automation Enthusiast              |     Shawarma Lover              |
 | Best-Practices Advocate            |     Space Enthusiast            |
