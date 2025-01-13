@@ -1,6 +1,6 @@
 # Matan Kaufman DevOps Engineer
 
-| Professional Traits                     |          Fun Facts            |
+|       Professional                      |          My-Self              |
 |-----------------------------------------|-------------------------------|
 | **Automation Enthusiast**               |     **Space Enthusiast**      |
 | **Best-Practices Advocate**             |                               |
