@@ -2,11 +2,11 @@
 
 |       Professional                      |          MySelf              |
 |-----------------------------------------|-------------------------------|
-| **Automation Enthusiast**               |     **Space Enthusiast**      |
-| **Best-Practices Advocate**             |                               |
-| **A "Can-Do" Attitude**                 |     **Shawarma Lover**        |
-| **Knowledge Seeker**                    |                               |
-| **Lifelong Learner**                    |     **Not-That-Bad Ping Pong Player** |
+| **Automation Enthusiast**               |     **Shawarma Lover**        |
+| **Best-Practices Advocate**             |     **Space Enthusiast**      |
+| **A "Can-Do" Attitude**                 |     **Not-That-Bad Ping Pong Player** |
+| **Knowledge Seeker**                    |     **Not the Ultimate Partner for a Zombie Apocalypse**|
+| **Lifelong Learner**                    |     **A cat owner** |
 
 
 ---
