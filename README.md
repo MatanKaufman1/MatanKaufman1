@@ -1,12 +1,12 @@
 # Matan Kaufman DevOps Engineer
 
-| Professional Traits                     | Fun Facts                     |
+| Professional Traits                     |          Fun Facts            |
 |-----------------------------------------|-------------------------------|
-| **Automation Enthusiast**               | **Space Enthusiast**     |
-| **Best-Practices Advocate**             | **Shawarma Lover**            |
-| **A "Can-Do" Attitude**                 | **Not-That-Bad Ping Pong Player** |
+| **Automation Enthusiast**               |     **Space Enthusiast**      |
+| **Best-Practices Advocate**             |                               |
+| **A "Can-Do" Attitude**                 |     **Shawarma Lover**        |
 | **Knowledge Seeker**                    |                               |
-| **Lifelong Learner**                    |                               |
+| **Lifelong Learner**                    |     **Not-That-Bad Ping Pong Player** |
 
 
 ---
