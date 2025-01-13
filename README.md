@@ -1,6 +1,6 @@
 # Matan Kaufman DevOps Engineer
 
-<center>
+<div style="text-align: center;">
 
 | **Professional**            | **Myself**                          |
 |-----------------------------|-------------------------------------|
@@ -10,9 +10,7 @@
 | Knowledge Seeker            | First to be Eaten in a Zombie Apocalypse |
 | Lifelong Learner            | A Cat Owner                         |
 
-</center>
-
-
+</div>
 
 ---
 
