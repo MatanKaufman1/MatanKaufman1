@@ -1,10 +1,10 @@
 # Matan Kaufman DevOps Engineer
 
-**Automation Enthusiast.**
-**Best-Practices Advocate.**
-**A "can-do" attitude.**
-**Knowledge Seeker.**
-**Lifelong Learner** 
+- **Automation Enthusiast.**
+- **Best-Practices Advocate.**
+- **A "can-do" attitude.**
+- **Knowledge Seeker.**
+- **Lifelong Learner** 
 
 ---
 
