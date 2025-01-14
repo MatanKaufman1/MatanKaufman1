@@ -12,6 +12,7 @@
 ---
 
 # 💻 Programming & Scripting  
+</center
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; text-align: center;"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
     <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white"/>
@@ -20,7 +21,7 @@
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
     <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
 </div>
-
+</center>
 # ♾️ CI/CD  
 ### 1. Source Control Management (SCM):
 <div style="display: flex; gap: 10px; align-items: center;">
