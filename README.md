@@ -1,8 +1,5 @@
 # Matan Kaufman DevOps Engineer
-<style>
-table {
-  width: 100%;
-  
+
 |       **Professional**             |          **MySelf**             |
 |------------------------------------|:-------------------------------:|
 | Automation Enthusiast              |     Shawarma Lover              |
@@ -10,7 +7,6 @@ table {
 | A "Can-Do" Attitude                |     Not-That-Bad Ping Pong Player |
 | Knowledge Seeker                   |     A cat owner                  |
 | Lifelong Learner                   |   Not the Ultimate Partner for a Zombie Apocalypse |
-</style>
 
 
 ---
