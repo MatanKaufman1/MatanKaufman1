@@ -19,6 +19,7 @@
     <a href="https://yaml.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white"/>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
     <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
+</div>
 
 # ♾️ CI/CD  
 ### 1. Source Control Management (SCM):
