@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Azure%20Repos-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS%20CodeCommit-FF9900?style=plastic&logo=amazon-aws&logoColor=white"/>  
 </div>
 
 ### **2. Automation Servers:**  
