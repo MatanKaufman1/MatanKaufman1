@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/MySQL-040720?style=plastic&logo=mysql&logoColor=white"/>  
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/Azure%20MySQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Azure%20SQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>  
 </div>
 
 # **☁️ Cloud Platforms**  
