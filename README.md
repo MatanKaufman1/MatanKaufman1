@@ -86,7 +86,7 @@
 # **☁️ Cloud Platforms**  
 <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <a herf="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D7?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D7?style=plastic&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </div>
 
 # **🛠️ Other Tools & Utilities**
