@@ -5,10 +5,10 @@
 |       **Professional**             |          **Myself**             |
 |------------------------------------|:-------------------------------:|
 | Automation Enthusiast              |     Shawarma Lover              |
-| Best-Practices Advocate            |     Space Enthusiast            |
-| A "Can-Do" Attitude                |     Not-That-Bad Ping Pong Player |
-| Knowledge Seeker                   |     A Cat Owner                  |
-| Lifelong Learner                   |   Not the Ultimate Partner for a Zombie Apocalypse |
+| Best-Practices Advocate            |    A Cat Owner                  |
+| A "Can-Do" Attitude                |    Space Enthusiast             |
+| Knowledge Seeker                   |     Not-That-Bad Ping Pong Player |
+| Lifelong Learner                   |                                 |
 
 </div>
 
