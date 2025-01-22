@@ -30,8 +30,8 @@
 ### 1. Source Control Management (SCM):
 <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Azure%20Repos-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white"/> 
+    <a href="https://azure.microsoft.com/en-us/products/devops/repos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure%20Repos-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
 </div>
 
 ### **2. Automation Servers:**  
