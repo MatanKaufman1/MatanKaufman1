@@ -49,9 +49,9 @@
 <div style="display: flex; gap: 10px; align-items: center;">
      <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DockerHub-2496ED?style=plastic&logo=docker&logoColor=white/">
      <a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ECR-FF9900?style=plastic&logo=amazon-aws&logoColor=white/">
-     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitLab%20Registry-FCA121?style=plastic&logo=gitlab&logoColor=white/">
-     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Packages-2EA44F?style=plastic&logo=github&logoColor=white/">
-     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
+     <a href="https://docs.gitlab.com/ee/user/packages/container_registry/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitLab%20Registry-FCA121?style=plastic&logo=gitlab&logoColor=white/">
+     <a href="https://docs.github.com/en/packages" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Packages-2EA44F?style=plastic&logo=github&logoColor=white/">
+     <a href="https://azure.microsoft.com/en-us/products/container-registry" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure%20Container%20Registry-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>
 </div>
 
 **Artifact Repositories:**  
