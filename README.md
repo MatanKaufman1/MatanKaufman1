@@ -62,7 +62,7 @@
 
 ### **4. Deployment & Orchestration Tools**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
+     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
     <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" alt="Helm"/> 
     <img src="https://img.shields.io/badge/EKS-FF9900?style=plastic&logo=amazon-eks&logoColor=white" alt="EKS"/> 
     <img src="https://img.shields.io/badge/AKS-0078D7?style=plastic&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> 
