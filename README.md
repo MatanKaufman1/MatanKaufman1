@@ -56,8 +56,8 @@
 
 **Artifact Repositories:**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/JFrog%20Artifactory-196c1c?style=plastic&logo=jfrog&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nexus-343434?style=plastic&logo=sonatype&logoColor=white"/>
+    <a href="https://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JFrog%20Artifactory-196c1c?style=plastic&logo=jfrog&logoColor=white"/>
+    <a href="https://www.sonatype.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nexus-343434?style=plastic&logo=sonatype&logoColor=white"/>
 </div>
 
 ### **4. Deployment & Orchestration Tools**
