@@ -63,11 +63,11 @@
 ### **4. Deployment & Orchestration Tools**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" alt="Helm"/> 
-    <img src="https://img.shields.io/badge/EKS-FF9900?style=plastic&logo=amazon-eks&logoColor=white" alt="EKS"/> 
-    <img src="https://img.shields.io/badge/AKS-0078D7?style=plastic&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> 
-    <img src="https://img.shields.io/badge/Kops-3E4EE3?style=plastic&logo=kubernetes&logoColor=white" alt="Kops"/> 
-    <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubeadm"/> 
+    <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white" alt="Helm"/> 
+    <a href="https://aws.amazon.com/eks/?p=pm&pd=eks&z=4" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/EKS-FF9900?style=plastic&logo=amazon-eks&logoColor=white" alt="EKS"/> 
+    <a href="https://azure.microsoft.com/en-us/products/kubernetes-service" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AKS-0078D7?style=plastic&logo=azure-kubernetes-service&logoColor=white" alt="AKS"/> 
+    <a href="https://kops.sigs.k8s.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kops-3E4EE3?style=plastic&logo=kubernetes&logoColor=white" alt="Kops"/> 
+    <a href="https://kubernetes.io/docs/reference/setup-tools/kubeadm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubeadm-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubeadm"/> 
  </div>
 
 
