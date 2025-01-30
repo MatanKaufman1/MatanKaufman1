@@ -73,10 +73,10 @@
 
 # **📊 Monitoring & Observability**
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elastic&logoColor=white" alt="ELK Stack"/>
-  <img src="https://img.shields.io/badge/Loki-0A3E98?style=plastic&logo=grafana&logoColor=white" alt="Loki"/>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" alt="Grafana"/>
+  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=plastic&logo=elastic&logoColor=white" alt="ELK Stack"/>
+  <a href="https://grafana.com/docs/loki/latest/get-started/overview/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Loki-0A3E98?style=plastic&logo=grafana&logoColor=white" alt="Loki"/>
 </div>
 
 # **🛢️ Databases**  
