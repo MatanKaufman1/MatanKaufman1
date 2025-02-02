@@ -81,10 +81,10 @@
 
 # **🛢️ Databases**  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/MySQL-040720?style=plastic&logo=mysql&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/Azure%20SQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>  
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-040720?style=plastic&logo=mysql&logoColor=white"/>  
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+    <a href="https://aws.amazon.com/dynamodb/**" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white"/>  
+    <a href="https://azure.microsoft.com/en-us/products/mysql" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure%20SQL-0078D7?style=plastic&logo=microsoft-azure&logoColor=white"/>  
 </div>
 
 # **☁️ Cloud Platforms**  
