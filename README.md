@@ -118,7 +118,7 @@
 
 ### 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matankaufman1&show_icons=true&theme=dracula)](https://github.com/matankaufman1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matankaufman1&layout=donut&theme=dracula)](https://github.com/matankaufman1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matankaufman1&layout=donut&theme=dracula&langs_count=4)](https://github.com/matankaufman1/github-readme-stats)
 
 
 ### 📫 How to reach me
