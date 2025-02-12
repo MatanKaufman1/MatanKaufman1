@@ -8,7 +8,7 @@
 | Automation Enthusiast              |     Shawarma Lover              |
 | Best-Practices Advocate            |    A Cat Owner                  |
 | A "Can-Do" Attitude                |    Space Enthusiast             |
-| Knowledge Seeker                   |     Not-That-Bad Ping Pong Player |
+| Knowledge Seeker                   |                                 |
 | Lifelong Learner                   |                                 |
 
 </div>
