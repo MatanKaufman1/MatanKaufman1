@@ -95,23 +95,22 @@
 
 # **🛠️ Other Tools & Utilities**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/> 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu"/> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/> 
-<img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim"/>
- <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"/> 
- <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
- <img src="https://img.shields.io/badge/PowerShell-728FCE?style=plastic&logo=PowerShell&logoColor=white" alt="PowerShell"/> 
+    <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu"/> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/> 
+    <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim"/>
+     <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"/> 
+     <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
+     <img src="https://img.shields.io/badge/PowerShell-728FCE?style=plastic&logo=PowerShell&logoColor=white" alt="PowerShell"/> 
  </div> 
- <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> 
- <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
- <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" alt="Kafka"/> 
- <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=plastic&logo=sonarqube&logoColor=white" alt="SonarQube"/> 
- <img src="https://img.shields.io/badge/Snyk-4C4A73?style=plastic&logo=snyk&logoColor=white" alt="Snyk"/> 
- <img src="https://img.shields.io/badge/Checkov-8051D6?style=plastic&logoColor=white" alt="Checkov"/> 
- <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=plastic&logo=vault&logoColor=white" alt="HCVault"/> 
+     <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> 
+     <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+     <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" alt="Kafka"/> 
+     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=plastic&logo=sonarqube&logoColor=white" alt="SonarQube"/> 
+     <img src="https://img.shields.io/badge/Snyk-4C4A73?style=plastic&logo=snyk&logoColor=white" alt="Snyk"/> 
+     <img src="https://img.shields.io/badge/Checkov-8051D6?style=plastic&logoColor=white" alt="Checkov"/> 
+     <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=plastic&logo=vault&logoColor=white" alt="HCVault"/> 
  </div>
-
 ## 🎓 Certificates
 <a href="https://www.credly.com/badges/7a1492e3-a1f0-40c0-84b7-28b3681ad5b3/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="ccp" width="100" height="100"/> </a>
 
