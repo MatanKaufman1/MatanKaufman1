@@ -97,7 +97,7 @@
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> 
     <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/> 
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu"/> 
-    <a href="www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/> 
+    <a href="https://www.microsoft.com/en-il/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/> 
     <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim"/>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"/> 
     <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
