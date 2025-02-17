@@ -96,12 +96,12 @@
 # **🛠️ Other Tools & Utilities**
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;"> 
     <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/> 
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu"/> 
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/> 
-    <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim"/>
-     <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"/> 
-     <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
-     <img src="https://img.shields.io/badge/PowerShell-728FCE?style=plastic&logo=PowerShell&logoColor=white" alt="PowerShell"/> 
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu"/> 
+    <a href="www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows"/> 
+    <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white" alt="Vim"/>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"/> 
+    <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerShell-728FCE?style=plastic&logo=PowerShell&logoColor=white" alt="PowerShell"/> 
  </div> 
      <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> 
      <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
