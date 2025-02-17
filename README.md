@@ -103,13 +103,13 @@
     <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-269539?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/> 
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerShell-728FCE?style=plastic&logo=PowerShell&logoColor=white" alt="PowerShell"/> 
  </div> 
-     <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> 
-     <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
-     <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" alt="Kafka"/> 
-     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=plastic&logo=sonarqube&logoColor=white" alt="SonarQube"/> 
-     <img src="https://img.shields.io/badge/Snyk-4C4A73?style=plastic&logo=snyk&logoColor=white" alt="Snyk"/> 
-     <img src="https://img.shields.io/badge/Checkov-8051D6?style=plastic&logoColor=white" alt="Checkov"/> 
-     <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=plastic&logo=vault&logoColor=white" alt="HCVault"/> 
+ <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 10px;"> 
+     <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apache-kafka&logoColor=white" alt="Kafka"/> 
+     <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=plastic&logo=sonarqube&logoColor=white" alt="SonarQube"/> 
+     <a href="https://snyk.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=plastic&logo=snyk&logoColor=white" alt="Snyk"/> 
+     <a href="https://www.checkov.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Checkov-8051D6?style=plastic&logoColor=white" alt="Checkov"/> 
+     <a href="https://www.hashicorp.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=plastic&logo=vault&logoColor=white" alt="HCVault"/> 
  </div>
         
 ## 🎓 Certificates
