@@ -118,7 +118,7 @@
 
 ### 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatanKaufman1&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatanKaufman1&layout=donut&theme=dracula&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatanKaufman1&layout=donut&theme=dracula&langs_count=5)](https://github.com/matankaufman1)
 
 
 
