@@ -15,6 +15,32 @@
 
 ---
 
+<h2>💻 Programming & Scripting</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://groovy-lang.org" target="_blank"><img src="https://img.shields.io/badge/Groovy-393939?style=plastic&logo=apache-groovy&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://yaml.org" target="_blank"><img src="https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+___
+
 # 💻 Programming & Scripting  
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px; text-align: center;"> 
