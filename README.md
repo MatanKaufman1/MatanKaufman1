@@ -40,8 +40,6 @@
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-eda044?style=plastic&logo=jenkins&logoColor=white"/>
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Actions-0b3468F?style=plastic&logo=github-actions&logoColor=white"/>  
     <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CircleCI-343434?style=plastic&logo=circleci&logoColor=white"/>
-    <a href="https://azure.microsoft.com/en-us/products/devops/pipelines" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=plastic&logo=azure-                pipelines&logoColor=white"/>
-    <a href="https://aws.amazon.com/codepipeline/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=plastic&logo=amazon-aws&logoColor=white"/>
 </div>
 
 
